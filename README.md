@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This is a simple react app to fetch users data from reqres api and display it in a neat way using react and bootstrap.
 
 ## Available Scripts
 
